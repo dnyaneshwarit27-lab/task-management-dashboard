@@ -1,0 +1,13 @@
+[
+  {
+    "_id": "1779535811289",
+    "user": "1779535610798",
+    "title": "studies",
+    "description": "python\njava\nreact",
+    "status": "In Progress",
+    "priority": "High",
+    "dueDate": "2026-02-03T00:00:00.000Z",
+    "createdAt": "2026-05-23T11:30:11.289Z",
+    "updatedAt": "2026-05-23T11:30:11.289Z"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "_id": "1779535330596",
+    "name": "Test User",
+    "email": "test@example.com",
+    "password": "$2a$10$xFzC5Rjjpj3pBZ24jfqqieSuQJAR77NhIUhJmOKchvyTxjkpsKsNu",
+    "createdAt": "2026-05-23T11:22:10.596Z",
+    "updatedAt": "2026-05-23T11:22:10.597Z"
+  },
+  {
+    "_id": "1779535610798",
+    "name": "dnyaneshwari",
+    "email": "dnyaneshwarit27@gmail.com",
+    "password": "$2a$10$1NwvY5zMXvlxZdmewVIkpupGUtcXkUsFA3rEGBs7SKP7Z/dNMJkYS",
+    "createdAt": "2026-05-23T11:26:50.798Z",
+    "updatedAt": "2026-05-23T11:26:50.799Z"
+  }
+]
